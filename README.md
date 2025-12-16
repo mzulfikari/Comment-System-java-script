@@ -62,7 +62,7 @@ Open `index.html` in your browser.
 ## 📸 Preview
 
 ```
-![Comment System Preview](/docs/image.png)
+<img src="/docs/image.png">
 ```
 
 
