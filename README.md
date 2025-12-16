@@ -59,13 +59,13 @@ Open `index.html` in your browser.
 
 ---
 
-## 📸 Preview (GIF)
+## 📸 Preview
 
-```md
+```
 ![Comment System Preview](/docs/image.png)
 ```
 
-> Add a short GIF (5–7 seconds) demonstrating comment submission and rendering.
+
 
 ---
 
