@@ -61,9 +61,9 @@ Open `index.html` in your browser.
 
 ## 📸 Preview
 
-```
+
 <img src="/docs/image.png">
-```
+
 
 
 
